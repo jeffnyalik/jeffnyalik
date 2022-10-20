@@ -1,7 +1,6 @@
 - 👋 Hi,my name is Jeff Nyalik and i am a Software Developer.
 - 👀 I’m interested in Software development and System architecture.
 - 👀 My Tech skills include: Python, Javascript.  (Django RestFramework | Angular | Node Js | Odoo |
-- 🌱 I’m currently learning Algorithms and Data Structures.
 - 💞️ I’m looking to collaborate on projects related to computer programming and System analysis and design.
 - 📫 How to reach me:
     jeffnyak@gmail.com.
